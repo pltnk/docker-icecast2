@@ -1,4 +1,6 @@
 ## docker-icecast2
+Simple Dockerfile for running icecast2 in a container.
+Just mount your icecast.xml file and you are good to go!
 
 ### Configuration:
 
