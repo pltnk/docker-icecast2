@@ -1,6 +1,12 @@
 ## docker-icecast2
-Simple Dockerfile for running icecast2 in a container.
+Simple Dockerfile for running [icecast2](https://icecast.org/) in a container. \
 Just mount your icecast.xml file and you are good to go!
+
+### Installation:
+You can either pull the image from Dockerhub \
+```docker pull pltnk/icecast2``` \
+or build it yourself \
+```docker build -t pltnk/icecast2 github.com/pltnk/docker-icecast2```
 
 ### Configuration:
 
