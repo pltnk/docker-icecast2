@@ -2,7 +2,7 @@
 Simple Dockerfile for running [icecast2](https://icecast.org/) in a container. \
 Just mount your icecast.xml file and you are good to go!
 
-Works well with containerized [Liquidsoap](https://www.liquidsoap.info/): [pltnk/liquidsoap](https://github.com/pltnk/docker-liquidsoap)
+Works well with containerized [Liquidsoap](https://www.liquidsoap.info/): [pltnk/docker-liquidsoap](https://github.com/pltnk/docker-liquidsoap)
 
 ### Installation:
 You can either pull the image from Dockerhub \
