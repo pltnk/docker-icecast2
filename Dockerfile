@@ -1,5 +1,8 @@
 FROM ubuntu:bionic
 
+LABEL maintainer="Kirill Plotnikov <init@pltnk.dev>" \
+      github="https://github.com/pltnk/docker-icecast2"
+
 # install icecast2 and enable its autostart
 RUN apt update && apt upgrade -y && \
     apt install -y icecast2 && \
