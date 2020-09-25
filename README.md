@@ -4,7 +4,7 @@
 [![Docker Image Size](https://img.shields.io/docker/image-size/pltnk/icecast2)](https://hub.docker.com/r/pltnk/icecast2)
 [![Docker Pulls](https://img.shields.io/docker/pulls/pltnk/icecast2)](https://hub.docker.com/r/pltnk/icecast2)
 [![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/pltnk/icecast2)](https://hub.docker.com/r/pltnk/icecast2)
-[![License](https://img.shields.io/github/license/pltnk/docker-icecast2)](https://choosealicense.com/licenses/mit/)
+[![License](https://img.shields.io/github/license/pltnk/docker-icecast2)](https://github.com/pltnk/docker-icecast2/blob/master/LICENSE)
 
 Simple Dockerfile for running [icecast2](https://icecast.org/) in a container. \
 Just mount your icecast.xml file and you are good to go!
