@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:focal
 
 LABEL maintainer="Kirill Plotnikov <init@pltnk.dev>" \
       github="https://github.com/pltnk/docker-icecast2"
