@@ -1,6 +1,6 @@
 ## docker-icecast2
 
-[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/pltnk/icecast2)](https://hub.docker.com/r/pltnk/icecast2)
+[![Travis CI Build Status](https://img.shields.io/travis/com/pltnk/docker-icecast2)](https://travis-ci.com/github/pltnk/docker-icecast2)
 [![Docker Image Size](https://img.shields.io/docker/image-size/pltnk/icecast2)](https://hub.docker.com/r/pltnk/icecast2)
 [![Docker Pulls](https://img.shields.io/docker/pulls/pltnk/icecast2)](https://hub.docker.com/r/pltnk/icecast2)
 [![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/pltnk/icecast2)](https://hub.docker.com/r/pltnk/icecast2)
