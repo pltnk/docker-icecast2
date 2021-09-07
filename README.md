@@ -1,6 +1,6 @@
 ## docker-icecast2
 
-[![Travis CI Build Status](https://img.shields.io/travis/com/pltnk/docker-icecast2)](https://travis-ci.com/github/pltnk/docker-icecast2)
+[![Build Status](https://img.shields.io/github/workflow/status/pltnk/docker-icecast2/Build%20and%20publish%20Docker%20image)](https://github.com/pltnk/docker-icecast2/actions/workflows/docker-publish.yml)
 [![Docker Image Size](https://img.shields.io/docker/image-size/pltnk/icecast2)](https://hub.docker.com/r/pltnk/icecast2)
 [![Docker Pulls](https://img.shields.io/docker/pulls/pltnk/icecast2)](https://hub.docker.com/r/pltnk/icecast2)
 [![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/pltnk/icecast2)](https://hub.docker.com/r/pltnk/icecast2)
