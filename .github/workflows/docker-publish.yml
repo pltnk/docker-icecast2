@@ -5,6 +5,7 @@ on:
     - cron: '0 0 * * MON'
   push:
     branches: [ main ]
+    paths-ignore: [ '**/README.md' ]
 
 env:
   IMAGE_NAME: icecast2
