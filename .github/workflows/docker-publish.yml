@@ -12,7 +12,7 @@ env:
   QUAY_IO: quay.io
 
 jobs:
-  build:
+  build_and_publish:
 
     runs-on: ubuntu-latest
     permissions:
