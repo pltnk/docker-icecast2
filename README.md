@@ -11,13 +11,15 @@ Just mount your icecast.xml file and you are good to go!
 
 Works well with containerized [Liquidsoap](https://www.liquidsoap.info/): [pltnk/docker-liquidsoap](https://github.com/pltnk/docker-liquidsoap)
 
-### Installation:
-You can either pull the image from Dockerhub \
-`docker pull pltnk/icecast2` \
-or build it yourself \
-`docker build -t pltnk/icecast2 github.com/pltnk/docker-icecast2`
+### Installation
+- Pull the image from one of public Docker registries
+  - Docker Hub `docker pull pltnk/icecast2`
+  - GitHub Packages `docker pull ghcr.io/pltnk/icecast2`
+  - Quay.io `docker pull quay.io/pltnk/icecast2`
+- Build the image yourself
+  - `docker build -t pltnk/icecast2 github.com/pltnk/docker-icecast2`
 
-### Configuration:
+### Configuration
 - Mount your icecast.xml to `/etc/icecast2/icecast.xml`
 - Publish necessary ports
 
