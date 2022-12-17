@@ -1,6 +1,6 @@
 ## docker-icecast2
 
-[![Build Status](https://img.shields.io/github/workflow/status/pltnk/docker-icecast2/Build%20and%20publish%20Docker%20image)](https://github.com/pltnk/docker-icecast2/actions/workflows/docker-publish.yml)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/pltnk/docker-icecast2/docker-publish.yml?branch=main)](https://github.com/pltnk/docker-icecast2/actions/workflows/docker-publish.yml)
 [![Docker Pulls](https://img.shields.io/docker/pulls/pltnk/icecast2)](https://hub.docker.com/r/pltnk/icecast2)
 [![Docker Image Size](https://img.shields.io/docker/image-size/pltnk/icecast2/latest)](https://hub.docker.com/r/pltnk/icecast2)
 [![License](https://img.shields.io/github/license/pltnk/docker-icecast2)](https://github.com/pltnk/docker-icecast2/blob/master/LICENSE)
